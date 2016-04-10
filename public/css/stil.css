@@ -66,3 +66,9 @@ a {
 #seznam-uporabnikov div:hover {
   background-color: #ddd;
 }
+
+#sporocila img {
+  width: 200px;
+  margin-left: 20px;
+}
+
